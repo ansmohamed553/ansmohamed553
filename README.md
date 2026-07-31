@@ -37,5 +37,8 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AnasMohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/anas-mohamed-ezzat189/) [![Facebook Badge](https://img.shields.io/badge/-@Anas__Mohamed-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/share/19A9Ty8TxA/) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+[![LinkedIn Badge](https://img.shields.io/badge/-AnasMohamed-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](www.linkedin.com/in/anas-mohamed-ezzat189
+)
+[![WUZZUF Badge](https://img.shields.io/badge/-WUZZUF-0055D4?style=flat-square&labelColor=0055D4&logo=briefcase&logoColor=white)](https://wuzzuf.net/me/https://wuzzuf.net/me/anas-mohamed-ezzat189?utm_medium=other&utm_source=referral)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/201117690540)
+[![Facebook Badge](https://img.shields.io/badge/-Anas__Mohamed-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/share/19A9Ty8TxA/)
