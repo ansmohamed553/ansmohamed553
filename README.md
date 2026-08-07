@@ -9,7 +9,7 @@
 <p align="left">
     <!-- Linux -->
     <a href="https://www.kali.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kali linux" width="40" height="40"/> 
+        <img 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kali linux" width="40" height="40"/>
     </a>
     <a href="https://www.linux.org/" target="_blank"> 
