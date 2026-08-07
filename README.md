@@ -1,38 +1,46 @@
 <h2 align="left">
-  <br>Hi there! 👋<br>
-  <br>I'm Anas Mohamed, JUNIOR CYBERSECURITY ANALYST 🛡️<br>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Anas Mohamed, JUNIOR CYBERSECURITY ANALYST 🛡️<br>
   <br>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
 
-<h2 align="left">🛠️ Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-    <!-- ================= Operating Systems ================= -->
-    <br><b>💻 Operating Systems:</b><br>
-    <code>Windows</code> &nbsp;|&nbsp; <code>Linux</code> &nbsp;|&nbsp; <code>Kali Linux</code> &nbsp;|&nbsp; <code>Ubuntu</code>
-    
-    <br><br>
-    <!-- ================= Programming Languages ================= -->
-    <br><b>👨‍💻 Programming Languages:</b><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" hspace="5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35" hspace="5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35" hspace="5"/>
-
-    <br><br>
-    <!-- ================= Cybersecurity Tools ================= -->
-    <br><b>🛡️ Cybersecurity Tools:</b><br>
-    <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="35" height="35" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="35" height="35" hspace="5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="burpsuite" width="35" height="35" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="35" height="35" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/aircrack-ng/aircrack-ng-icon.svg" alt="aircrack-ng" width="35" height="35" hspace="5"/>
-
-    <br><br>
-    <!-- ================= Databases & Cloud & Version Control ================= -->
-    <br><b>🗄️ Databases, Cloud & Tools:</b><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35" hspace="5"/>
+    <!-- Linux -->
+    <a href="https://www.kali.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kali linux" width="40" height="40"/> 
+    </a>
+    <a href="https://www.linux.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a>
+    <!-- Networking & Bash/Python -->
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+    </a>
+    <!-- Web & Databases -->
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a>
+    <!-- Version Control & Cloud -->
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a>
+    <a href="https://azure.microsoft.com/en-us/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+    </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -45,7 +53,7 @@
 - 🚀 Actively looking for opportunities as a **Junior SOC Analyst / IT Security Specialist**.
 - ⚡ Fun fact: Continuous learning in Cybersecurity is my daily habit!
 
-<h2 align="left">❤️ Let's get connected:</h2>
+<h2 align="left">:heart: Let's get connected:</h2>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-AnasMohamed-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-mohamed-ezzat189/)
 [![WUZZUF Badge](https://img.shields.io/badge/-WUZZUF-0055D4?style=flat-square&labelColor=0055D4&logo=briefcase&logoColor=white)](https://wuzzuf.net/me/anas-mohamed-ezzat189)
