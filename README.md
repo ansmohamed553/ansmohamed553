@@ -1,5 +1,5 @@
-د<h2 align="left">
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+<h2 align="left">
+  <br>Hi there! 👋<br>
   <br>I'm Anas Mohamed, JUNIOR CYBERSECURITY ANALYST 🛡️<br>
   <br>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -8,30 +8,31 @@
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
 <p align="left">
     <!-- ================= Operating Systems ================= -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40" hspace="5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" hspace="5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kali linux" width="40" height="40" hspace="5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" hspace="5"/>
+    <br><b>💻 Operating Systems:</b><br>
+    <code>Windows</code> &nbsp;|&nbsp; <code>Linux</code> &nbsp;|&nbsp; <code>Kali Linux</code> &nbsp;|&nbsp; <code>Ubuntu</code>
     
     <br><br>
     <!-- ================= Programming Languages ================= -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" hspace="5"/>
+    <br><b>👨‍💻 Programming Languages:</b><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" hspace="5"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35" hspace="5"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35" hspace="5"/>
 
     <br><br>
     <!-- ================= Cybersecurity Tools ================= -->
-    <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40" hspace="5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="burpsuite" width="40" height="40" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/aircrack-ng/aircrack-ng-icon.svg" alt="aircrack-ng" width="40" height="40" hspace="5"/>
+    <br><b>🛡️ Cybersecurity Tools:</b><br>
+    <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="35" height="35" hspace="5"/>
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="35" height="35" hspace="5"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="burpsuite" width="35" height="35" hspace="5"/>
+    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="35" height="35" hspace="5"/>
+    <img src="https://www.vectorlogo.zone/logos/aircrack-ng/aircrack-ng-icon.svg" alt="aircrack-ng" width="35" height="35" hspace="5"/>
 
     <br><br>
     <!-- ================= Databases & Cloud & Version Control ================= -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" hspace="5"/>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" hspace="5"/>
+    <br><b>🗄️ Databases, Cloud & Tools:</b><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" hspace="5"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" hspace="5"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35" hspace="5"/>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
